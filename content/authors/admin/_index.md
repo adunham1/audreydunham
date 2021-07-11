@@ -6,6 +6,7 @@ title: Audrey Dunham
 superuser: true
 
 # Role/position/tagline
+<<<<<<< HEAD
 role: PhD Candidate 
 
 # Organizations/Affiliations to show in About widget
@@ -14,12 +15,26 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research uses ground motion simulations of large earthquake to better understand the interactions between landsliding and topographic amplification
+=======
+role: PhD Candidate
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: University of Arizona
+
+# Short bio (displayed in user profile at end of posts)
+bio: Seismology Woo!
+>>>>>>> 6d5ffeb4b118da1aa5b8452e106797f17c55327f
 
 # Interests to show in About widget
 interests:
 - Computational Seismology
 - Ground motion modeling
+<<<<<<< HEAD
 - Landslide initiation
+=======
+- Coseismic landslide hazard
+>>>>>>> 6d5ffeb4b118da1aa5b8452e106797f17c55327f
 
 # Education to show in About widget
 education:
