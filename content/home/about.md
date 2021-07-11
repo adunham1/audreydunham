@@ -1,6 +1,6 @@
 ---
-widget: hello
-widget_id: recent-posts
+widget: biography
+widget_id: bio
 headless: true
 weight: 20
 title: About Me
