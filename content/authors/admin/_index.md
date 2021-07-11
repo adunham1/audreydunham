@@ -14,7 +14,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research uses ground motion simulations of large earthquake to better understand the interactions between landsliding and topographic amplification
-=======
+
 role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
@@ -28,9 +28,9 @@ bio: Seismology Woo!
 interests:
 - Computational Seismology
 - Ground motion modeling
-<<<<<<< HEAD
+
 - Landslide initiation
-=======
+
 - Coseismic landslide hazard
 
 # Education to show in About widget
